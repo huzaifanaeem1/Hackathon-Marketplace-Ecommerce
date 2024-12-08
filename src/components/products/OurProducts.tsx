@@ -98,7 +98,7 @@ const OurProduct = () => {
                     <div
                         className="w-full h-[200px] sm:h-[250px] lg:h-[312px] bg-cover bg-center rounded-lg"
                         style={{
-                            backgroundImage: "url('/images/product/product7.png')",
+                            backgroundImage: "url('/images/Product/product7.png')",
                         }}
                     ></div>
                 </div>
@@ -108,7 +108,7 @@ const OurProduct = () => {
                     <div
                         className="w-full h-[200px] sm:h-[250px] lg:h-[312px] bg-cover bg-center rounded-lg"
                         style={{
-                            backgroundImage: "url('/images/product/product1.png')",
+                            backgroundImage: "url('/images/Product/product1.png')",
                         }}
                     ></div>
                 </div>

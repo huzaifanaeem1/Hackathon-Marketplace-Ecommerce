@@ -21,7 +21,7 @@ export default function page() {
                     <div className="w-[312px] h-[377px] relative">
                         <div
                             className="w-[312px] h-[312px] bg-cover bg-center rounded-lg"
-                            style={{ backgroundImage: "url('/images/product/product1.png')" }}
+                            style={{ backgroundImage: "url('/images/Product/product1.png')" }}
                         ></div>
                         <div className="absolute flex items-center px-2 py-1 bg-[#01AD5A] rounded-[4px] left-4 top-4">
                             <span className="text-xs font-medium text-white capitalize">New</span>
@@ -46,7 +46,7 @@ export default function page() {
                     <div className="w-[312px] h-[312px]  relative">
                         <div
                             className="w-[312px] h-[312px] bg-cover bg-center rounded-lg"
-                            style={{ backgroundImage: "url('/images/product/product2.png')" }}
+                            style={{ backgroundImage: "url('/images/Product/product2.png')" }}
                         ></div>
                         <div className="absolute flex items-center px-2 py-1 bg-[#F5813F] rounded-[4px] left-4 top-4">
                             <span className="text-xs font-medium text-white capitalize">Sale</span>
@@ -71,7 +71,7 @@ export default function page() {
                     <div className="w-[312px] h-[312px] relative">
                         <div
                             className="w-[312px] h-[312px] bg-cover bg-center rounded-lg"
-                            style={{ backgroundImage: "url('/images/product/product3.png')" }}
+                            style={{ backgroundImage: "url('/images/Product/product3.png')" }}
                         ></div>
                         <div className="flex items-center justify-between mt-4 px-2">
                             <div>
@@ -88,7 +88,7 @@ export default function page() {
                     <div className=" flex justify-center w-[312px] h-[312px] relative">
                         <div
                             className="w-[312px] h-[312px] bg-cover bg-center rounded-lg"
-                            style={{ backgroundImage: "url('/images/product/product4.png')" }}
+                            style={{ backgroundImage: "url('/images/Product/product4.png')" }}
                         ></div>
                         <div className="flex items-center justify-between mt-4 px-2">
                             <div>
@@ -154,7 +154,7 @@ export default function page() {
                 <div className="w-[312px] h-[312px] relative">
                     <div
                         className="w-[312px] h-[312px] bg-cover bg-center rounded-lg"
-                        style={{ backgroundImage: "url('/images/product/product7.png')" }}
+                        style={{ backgroundImage: "url('/images/Product/product7.png')" }}
                     ></div>
 
                     <div className="flex items-center justify-between mt-4 px-2">
@@ -172,7 +172,7 @@ export default function page() {
                 <div className="w-[312px] h-[312px] relative">
                     <div
                         className="w-[312px] h-[312px] bg-cover bg-center rounded-lg"
-                        style={{ backgroundImage: "url('/images/product/product1.png')" }}
+                        style={{ backgroundImage: "url('/images/Product/product1.png')" }}
                     ></div>
                     <div className="flex items-center justify-between mt-4 px-2">
                         <div>
@@ -214,7 +214,7 @@ export default function page() {
                 <div className="w-[312px] h-[312px] relative">
                     <div
                         className="w-[312px] h-[312px] bg-cover bg-center rounded-lg"
-                        style={{ backgroundImage: "url('/images/product/product2.png')" }}
+                        style={{ backgroundImage: "url('/images/Product/product2.png')" }}
                     ></div>
                     <div className="absolute flex items-center px-2 py-1 bg-[#F5813F] rounded-[4px] left-4 top-4">
                         <span className="text-xs font-medium text-white capitalize">Sale</span>
@@ -239,7 +239,7 @@ export default function page() {
                 <div className="w-[312px] h-[312px] relative">
                     <div
                         className="w-[312px] h-[312px] bg-cover bg-center rounded-lg"
-                        style={{ backgroundImage: "url('/images/product/product3.png')" }}
+                        style={{ backgroundImage: "url('/images/Product/product3.png')" }}
                     ></div>
 
                     <div className="flex items-center justify-between mt-4 px-2">
