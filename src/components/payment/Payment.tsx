@@ -1,20 +1,21 @@
 
 import Image from "next/image"
+import React from "react"
 const Company = [
   {
-      img : '/images/companyLogos/logo1.png'
+      img : '/images/companyLogos/Logo1.png'
   },{
-      img : '/images/companyLogos/logo2.png'
+      img : '/images/companyLogos/Logo2.png'
   },{
-      img : '/images/companyLogos/logo3.png'
+      img : '/images/companyLogos/Logo3.png'
   },{
-      img : '/images/companyLogos/logo4.png'
+      img : '/images/companyLogos/Logo4.png'
   },{
-      img : '/images/companyLogos/logo5.png'
+      img : '/images/companyLogos/Logo5.png'
   },{
-      img : '/images/companyLogos/logo6.png'
+      img : '/images/companyLogos/Logo6.png'
   },{
-      img : '/images/companyLogos/logo7.png'
+      img : '/images/companyLogos/Logo7.png'
   }
 ]
 
