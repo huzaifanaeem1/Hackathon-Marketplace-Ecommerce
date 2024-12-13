@@ -19,7 +19,7 @@ const Company = [
 ]
 
 
-const Companies = () => {
+const Payment = () => {
 return (
   <div className="lg:mx-20 sm:mx-10 mx-3 my-5 lg:my-10">
       <div className="flex items-center flex-wrap gap-3 justify-center lg:justify-around">
@@ -35,4 +35,4 @@ return (
 )
 }
 
-export default Companies
+export default Payment;

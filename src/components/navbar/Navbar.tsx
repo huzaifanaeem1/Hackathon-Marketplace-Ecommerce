@@ -50,9 +50,9 @@ const Navbar = () => {
      <div className=' text-[#636270] flex justify-between font-medium text-[14px]'>
     <nav className=' space-x-8  '>
     <Link href="/" className={` hover:text-[#007580] ${currentPath === '/' ? ' text-[#007580]' : ''}`} >Home</Link>
-    <Link href="/shop" className={` hover:text-[#007580] ${currentPath === '/' ? ' text-[#007580]' : ''}`}>Shop</Link>
+    <Link href="/" className={` hover:text-[#007580] ${currentPath === '/' ? ' text-[#007580]' : ''}`}>Shop</Link>
     <Link href="/product" className={` hover:text-[#007580] ${currentPath === '/product' ? ' text-[#007580]' : ''}`}>Product</Link>
-    <Link href="/pages" className={` hover:text-[#007580] ${currentPath === '/' ? ' text-[#007580]' : ''}`}>Pages</Link>
+    <Link href="/" className={` hover:text-[#007580] ${currentPath === '/' ? ' text-[#007580]' : ''}`}>Pages</Link>
     <Link href="/about" className={` hover:text-[#007580] ${currentPath === '/about' ? ' text-[#007580]' : ''}`}>About</Link>
     <Link href="/contact" className={` hover:text-[#007580] ${currentPath === '/contact' ? ' text-[#007580]' : ''}`}>Contact</Link>
     </nav>
